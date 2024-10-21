@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "root",
-    "password": "H@rsennayet19",
+    "password": "admin",
     "database": "user_id_adspower",
     "host": "127.0.0.1",
     "dialect": "mysql"
